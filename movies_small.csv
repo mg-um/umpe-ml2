@@ -1,0 +1,257 @@
+,userId,movieId,rating,timestamp,title,genres
+1626,132,260,2.0,1157920586,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+1647,198,260,5.0,1034137711,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+1655,212,260,2.5,1505400094,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+1667,234,260,5.0,1004407958,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+1684,279,260,5.0,1506394310,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+1688,292,260,4.0,1039914974,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+1695,307,260,3.5,1186160883,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+1738,414,260,5.0,961514667,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+1751,448,260,5.0,1019124071,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+1767,480,260,4.5,1179160262,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+1777,514,260,5.0,1533871727,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+1792,555,260,5.0,978841221,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+1800,573,260,5.0,1186589669,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+1810,599,260,5.0,1498533468,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+1813,603,260,4.0,953926816,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+2171,198,316,5.0,1034135137,Stargate (1994),Action|Adventure|Sci-Fi
+2215,414,316,3.0,961515271,Stargate (1994),Action|Adventure|Sci-Fi
+2221,446,316,4.0,843839191,Stargate (1994),Action|Adventure|Sci-Fi
+2223,448,316,3.0,1028110820,Stargate (1994),Action|Adventure|Sci-Fi
+2232,480,316,4.0,1179177651,Stargate (1994),Action|Adventure|Sci-Fi
+2245,555,316,4.0,978841730,Stargate (1994),Action|Adventure|Sci-Fi
+2252,573,316,4.0,1186722532,Stargate (1994),Action|Adventure|Sci-Fi
+2261,599,316,3.0,1498521582,Stargate (1994),Action|Adventure|Sci-Fi
+7594,101,1210,4.0,968440698,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+7603,132,1210,2.0,1157921254,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+7622,198,1210,5.0,1034136682,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+7630,212,1210,3.5,1523216796,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+7637,234,1210,5.0,1004408002,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+7655,279,1210,4.5,1506394308,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+7658,292,1210,4.0,1039914974,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+7664,307,1210,3.0,1186411468,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+7692,414,1210,5.0,961436248,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+7700,448,1210,5.0,1019123866,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+7711,480,1210,3.5,1179177713,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+7716,514,1210,4.0,1533872364,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+7727,555,1210,5.0,978821670,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+7735,573,1210,5.0,1186589710,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+7745,599,1210,5.0,1498533608,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+7747,603,1210,3.0,953927884,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+9048,414,1282,5.0,1025108900,Fantasia (1940),Animation|Children|Fantasy|Musical
+9050,480,1282,3.5,1182448353,Fantasia (1940),Animation|Children|Fantasy|Musical
+9061,599,1282,4.0,1498498952,Fantasia (1940),Animation|Children|Fantasy|Musical
+11034,234,2054,4.0,1004409156,"Honey, I Shrunk the Kids (1989)",Adventure|Children|Comedy|Fantasy|Sci-Fi
+11040,307,2054,1.5,1186161644,"Honey, I Shrunk the Kids (1989)",Adventure|Children|Comedy|Fantasy|Sci-Fi
+11047,414,2054,3.0,961515297,"Honey, I Shrunk the Kids (1989)",Adventure|Children|Comedy|Fantasy|Sci-Fi
+11052,448,2054,4.0,1019125435,"Honey, I Shrunk the Kids (1989)",Adventure|Children|Comedy|Fantasy|Sci-Fi
+11058,480,2054,2.0,1179178215,"Honey, I Shrunk the Kids (1989)",Adventure|Children|Comedy|Fantasy|Sci-Fi
+11066,555,2054,3.0,978822826,"Honey, I Shrunk the Kids (1989)",Adventure|Children|Comedy|Fantasy|Sci-Fi
+11070,599,2054,3.0,1498524093,"Honey, I Shrunk the Kids (1989)",Adventure|Children|Comedy|Fantasy|Sci-Fi
+13866,67,2858,4.0,1501273550,American Beauty (1999),Drama|Romance
+13876,101,2858,4.0,968440828,American Beauty (1999),Drama|Romance
+13887,132,2858,4.5,1157922636,American Beauty (1999),Drama|Romance
+13906,198,2858,5.0,1034136008,American Beauty (1999),Drama|Romance
+13915,212,2858,3.5,1490114770,American Beauty (1999),Drama|Romance
+13940,279,2858,3.5,1506394165,American Beauty (1999),Drama|Romance
+13950,307,2858,4.0,1186084840,American Beauty (1999),Drama|Romance
+13985,414,2858,5.0,961436469,American Beauty (1999),Drama|Romance
+13999,448,2858,4.0,1043776610,American Beauty (1999),Drama|Romance
+14011,480,2858,4.0,1179160061,American Beauty (1999),Drama|Romance
+14019,514,2858,4.0,1533953776,American Beauty (1999),Drama|Romance
+14034,555,2858,5.0,978744284,American Beauty (1999),Drama|Romance
+14039,573,2858,2.0,1186590377,American Beauty (1999),Drama|Romance
+14046,599,2858,5.0,1498533774,American Beauty (1999),Drama|Romance
+14048,603,2858,5.0,953925031,American Beauty (1999),Drama|Romance
+18249,132,914,3.0,1157923450,My Fair Lady (1964),Comedy|Drama|Musical|Romance
+18255,292,914,2.0,1357062188,My Fair Lady (1964),Comedy|Drama|Musical|Romance
+18272,603,914,5.0,954482383,My Fair Lady (1964),Comedy|Drama|Musical|Romance
+19650,198,368,4.0,1034207438,Maverick (1994),Adventure|Comedy|Western
+19671,414,368,4.0,961438688,Maverick (1994),Adventure|Comedy|Western
+19674,446,368,3.0,843839504,Maverick (1994),Adventure|Comedy|Western
+19698,599,368,2.5,1498514705,Maverick (1994),Adventure|Comedy|Western
+22098,234,1907,5.0,1004409394,Mulan (1998),Adventure|Animation|Children|Comedy|Drama|Musical|Romance
+22101,292,1907,3.5,1293562953,Mulan (1998),Adventure|Animation|Children|Comedy|Drama|Musical|Romance
+22111,414,1907,4.0,1039532289,Mulan (1998),Adventure|Animation|Children|Comedy|Drama|Musical|Romance
+22443,414,2019,5.0,1519593885,Seven Samurai (Shichinin no samurai) (1954),Action|Adventure|Drama
+22444,448,2019,5.0,1019132771,Seven Samurai (Shichinin no samurai) (1954),Action|Adventure|Drama
+22453,599,2019,4.0,1498498925,Seven Samurai (Shichinin no samurai) (1954),Action|Adventure|Drama
+22455,603,2019,5.0,953926481,Seven Samurai (Shichinin no samurai) (1954),Action|Adventure|Drama
+26520,132,410,3.0,1157967526,Addams Family Values (1993),Children|Comedy|Fantasy
+26544,307,410,3.0,1186084482,Addams Family Values (1993),Children|Comedy|Fantasy
+26562,448,410,4.0,1019128484,Addams Family Values (1993),Children|Comedy|Fantasy
+26566,480,410,3.5,1179178395,Addams Family Values (1993),Children|Comedy|Fantasy
+26572,555,410,4.0,978747041,Addams Family Values (1993),Children|Comedy|Fantasy
+26577,599,410,2.5,1498516121,Addams Family Values (1993),Children|Comedy|Fantasy
+27352,414,7,3.0,961439170,Sabrina (1995),Comedy|Romance
+27367,599,7,2.5,1498514161,Sabrina (1995),Comedy|Romance
+27437,292,10,3.5,1219625069,GoldenEye (1995),Action|Adventure|Thriller
+27441,307,10,2.5,1186161010,GoldenEye (1995),Action|Adventure|Thriller
+27464,414,10,3.0,961515863,GoldenEye (1995),Action|Adventure|Thriller
+27470,446,10,3.0,843839232,GoldenEye (1995),Action|Adventure|Thriller
+27472,448,10,4.0,1019124400,GoldenEye (1995),Action|Adventure|Thriller
+27480,480,10,4.0,1179177922,GoldenEye (1995),Action|Adventure|Thriller
+27499,573,10,4.5,1186722464,GoldenEye (1995),Action|Adventure|Thriller
+27506,599,10,3.5,1498500281,GoldenEye (1995),Action|Adventure|Thriller
+28175,234,65,3.0,1001975877,Bio-Dome (1996),Comedy
+28179,307,65,2.5,1186086548,Bio-Dome (1996),Comedy
+28183,414,65,2.0,961439623,Bio-Dome (1996),Comedy
+28184,448,65,1.0,1028111080,Bio-Dome (1996),Comedy
+28189,555,65,3.0,980125946,Bio-Dome (1996),Comedy
+28190,599,65,2.0,1498511235,Bio-Dome (1996),Comedy
+30677,414,314,3.0,961594869,"Secret of Roan Inish, The (1994)",Children|Drama|Fantasy|Mystery
+30680,555,314,4.0,978840250,"Secret of Roan Inish, The (1994)",Children|Drama|Fantasy|Mystery
+30682,599,314,2.5,1519259227,"Secret of Roan Inish, The (1994)",Children|Drama|Fantasy|Mystery
+30683,603,314,3.0,963177361,"Secret of Roan Inish, The (1994)",Children|Drama|Fantasy|Mystery
+31294,132,355,2.0,1157923325,"Flintstones, The (1994)",Children|Comedy|Fantasy
+31301,234,355,2.0,1001975853,"Flintstones, The (1994)",Children|Comedy|Fantasy
+31315,414,355,1.0,961439433,"Flintstones, The (1994)",Children|Comedy|Fantasy
+31317,448,355,2.0,1019127065,"Flintstones, The (1994)",Children|Comedy|Fantasy
+31324,599,355,1.0,1498503355,"Flintstones, The (1994)",Children|Comedy|Fantasy
+31778,555,426,3.0,978841879,Body Snatchers (1993),Horror|Sci-Fi|Thriller
+31780,603,426,4.0,953925774,Body Snatchers (1993),Horror|Sci-Fi|Thriller
+33673,414,991,4.0,961512595,Michael Collins (1996),Drama
+33675,480,991,4.0,1179160361,Michael Collins (1996),Drama
+33676,599,991,3.5,1519233999,Michael Collins (1996),Drama
+33997,234,1101,3.0,1004408226,Top Gun (1986),Action|Romance
+34002,279,1101,4.0,1506395346,Top Gun (1986),Action|Romance
+34006,292,1101,4.0,1293562937,Top Gun (1986),Action|Romance
+34008,307,1101,0.5,1186161510,Top Gun (1986),Action|Romance
+34022,414,1101,5.0,961514217,Top Gun (1986),Action|Romance
+34026,448,1101,2.5,1178981120,Top Gun (1986),Action|Romance
+34032,480,1101,4.0,1179178123,Top Gun (1986),Action|Romance
+34037,514,1101,3.0,1533954111,Top Gun (1986),Action|Romance
+34046,599,1101,2.5,1519119750,Top Gun (1986),Action|Romance
+34047,603,1101,1.0,953928433,Top Gun (1986),Action|Romance
+34159,198,1584,4.0,1034135578,Contact (1997),Drama|Sci-Fi
+34178,307,1584,2.0,1186161492,Contact (1997),Drama|Sci-Fi
+34181,325,1584,4.0,1039395952,Contact (1997),Drama|Sci-Fi
+34194,414,1584,3.0,961514924,Contact (1997),Drama|Sci-Fi
+34206,514,1584,4.0,1534052768,Contact (1997),Drama|Sci-Fi
+34209,555,1584,5.0,978841345,Contact (1997),Drama|Sci-Fi
+34214,599,1584,2.0,1498510384,Contact (1997),Drama|Sci-Fi
+34453,132,1784,2.5,1157921506,As Good as It Gets (1997),Comedy|Drama|Romance
+34466,234,1784,4.0,1004407785,As Good as It Gets (1997),Comedy|Drama|Romance
+34479,307,1784,3.0,1186085308,As Good as It Gets (1997),Comedy|Drama|Romance
+34482,325,1784,4.0,1039395430,As Good as It Gets (1997),Comedy|Drama|Romance
+34492,414,1784,5.0,961438476,As Good as It Gets (1997),Comedy|Drama|Romance
+34497,448,1784,4.0,1019137522,As Good as It Gets (1997),Comedy|Drama|Romance
+34503,480,1784,3.5,1179160676,As Good as It Gets (1997),Comedy|Drama|Romance
+34509,514,1784,4.0,1533948897,As Good as It Gets (1997),Comedy|Drama|Romance
+34516,555,1784,5.0,978748857,As Good as It Gets (1997),Comedy|Drama|Romance
+34525,599,1784,3.5,1498501610,As Good as It Gets (1997),Comedy|Drama|Romance
+37268,292,5989,2.0,1323631830,Catch Me If You Can (2002),Crime|Drama
+37272,307,5989,3.5,1186087717,Catch Me If You Can (2002),Crime|Drama
+37293,414,5989,4.0,1057178061,Catch Me If You Can (2002),Crime|Drama
+37300,448,5989,4.0,1071155545,Catch Me If You Can (2002),Crime|Drama
+37305,480,5989,5.0,1179161120,Catch Me If You Can (2002),Crime|Drama
+37324,573,5989,4.0,1186589235,Catch Me If You Can (2002),Crime|Drama
+37329,599,5989,3.0,1498523331,Catch Me If You Can (2002),Crime|Drama
+42619,212,72998,3.0,1490114868,Avatar (2009),Action|Adventure|Sci-Fi|IMAX
+42628,279,72998,2.0,1506395406,Avatar (2009),Action|Adventure|Sci-Fi|IMAX
+42632,292,72998,4.0,1293562782,Avatar (2009),Action|Adventure|Sci-Fi|IMAX
+42652,414,72998,4.0,1261503960,Avatar (2009),Action|Adventure|Sci-Fi|IMAX
+42656,448,72998,3.0,1311011549,Avatar (2009),Action|Adventure|Sci-Fi|IMAX
+42676,573,72998,5.0,1370377625,Avatar (2009),Action|Adventure|Sci-Fi|IMAX
+42680,599,72998,2.5,1498518529,Avatar (2009),Action|Adventure|Sci-Fi|IMAX
+43664,234,1370,3.0,1004408167,Die Hard 2 (1990),Action|Adventure|Thriller
+43668,279,1370,3.0,1506395216,Die Hard 2 (1990),Action|Adventure|Thriller
+43670,292,1370,4.0,990062271,Die Hard 2 (1990),Action|Adventure|Thriller
+43675,325,1370,2.0,1039399069,Die Hard 2 (1990),Action|Adventure|Thriller
+43685,414,1370,4.0,961515781,Die Hard 2 (1990),Action|Adventure|Thriller
+43688,448,1370,3.0,1019142275,Die Hard 2 (1990),Action|Adventure|Thriller
+43693,480,1370,3.5,1179178403,Die Hard 2 (1990),Action|Adventure|Thriller
+43700,573,1370,4.5,1187044988,Die Hard 2 (1990),Action|Adventure|Thriller
+43703,599,1370,2.5,1498516042,Die Hard 2 (1990),Action|Adventure|Thriller
+43814,279,1608,4.0,1506394615,Air Force One (1997),Action|Thriller
+43815,292,1608,4.0,1301252659,Air Force One (1997),Action|Thriller
+43821,325,1608,2.0,1039399280,Air Force One (1997),Action|Thriller
+43827,414,1608,3.0,961515975,Air Force One (1997),Action|Thriller
+43831,448,1608,3.0,1019132896,Air Force One (1997),Action|Thriller
+43840,555,1608,3.0,978748415,Air Force One (1997),Action|Thriller
+43846,599,1608,2.5,1498518408,Air Force One (1997),Action|Thriller
+44495,101,2694,3.0,968440874,Big Daddy (1999),Comedy
+44510,292,2694,2.0,1016841615,Big Daddy (1999),Comedy
+44512,307,2694,3.0,1186086434,Big Daddy (1999),Comedy
+44521,414,2694,3.0,961436556,Big Daddy (1999),Comedy
+44525,448,2694,4.0,1164622318,Big Daddy (1999),Comedy
+44532,555,2694,4.0,978747372,Big Daddy (1999),Comedy
+44536,599,2694,2.5,1498518544,Big Daddy (1999),Comedy
+45086,67,4011,4.5,1501273607,Snatch (2000),Comedy|Crime|Thriller
+45102,198,4011,3.0,1034207400,Snatch (2000),Comedy|Crime|Thriller
+45105,212,4011,4.0,1490114818,Snatch (2000),Comedy|Crime|Thriller
+45121,307,4011,3.5,1186162119,Snatch (2000),Comedy|Crime|Thriller
+45139,414,4011,5.0,980784313,Snatch (2000),Comedy|Crime|Thriller
+45145,448,4011,4.0,1035980807,Snatch (2000),Comedy|Crime|Thriller
+45150,480,4011,3.5,1179163224,Snatch (2000),Comedy|Crime|Thriller
+45160,573,4011,4.5,1248841842,Snatch (2000),Comedy|Crime|Thriller
+45164,599,4011,3.0,1498519789,Snatch (2000),Comedy|Crime|Thriller
+45165,603,4011,4.0,1000194455,Snatch (2000),Comedy|Crime|Thriller
+49424,414,1299,5.0,991144157,"Killing Fields, The (1984)",Drama|War
+49432,599,1299,3.0,1498521936,"Killing Fields, The (1984)",Drama|War
+49434,603,1299,4.0,953927628,"Killing Fields, The (1984)",Drama|War
+50885,414,3039,4.0,961595489,Trading Places (1983),Comedy
+50886,448,3039,4.0,1019228504,Trading Places (1983),Comedy
+50892,514,3039,3.5,1533949099,Trading Places (1983),Comedy
+50896,555,3039,3.0,978820940,Trading Places (1983),Comedy
+50898,573,3039,4.5,1341798636,Trading Places (1983),Comedy
+50901,599,3039,3.0,1519124038,Trading Places (1983),Comedy
+52404,234,2422,2.0,1004408829,"Karate Kid, Part III, The (1989)",Action|Adventure|Children|Drama
+52406,307,2422,1.0,1215657408,"Karate Kid, Part III, The (1989)",Action|Adventure|Children|Drama
+52411,599,2422,2.0,1498509703,"Karate Kid, Part III, The (1989)",Action|Adventure|Children|Drama
+52412,603,2422,1.0,963177105,"Karate Kid, Part III, The (1989)",Action|Adventure|Children|Drama
+56730,279,91542,3.0,1506395812,Sherlock Holmes: A Game of Shadows (2011),Action|Adventure|Comedy|Crime|Mystery|Thriller
+56732,292,91542,4.5,1421974576,Sherlock Holmes: A Game of Shadows (2011),Action|Adventure|Comedy|Crime|Mystery|Thriller
+56740,414,91542,3.5,1356136098,Sherlock Holmes: A Game of Shadows (2011),Action|Adventure|Comedy|Crime|Mystery|Thriller
+56741,448,91542,2.5,1359988215,Sherlock Holmes: A Game of Shadows (2011),Action|Adventure|Comedy|Crime|Mystery|Thriller
+56749,599,91542,3.0,1502113392,Sherlock Holmes: A Game of Shadows (2011),Action|Adventure|Comedy|Crime|Mystery|Thriller
+57765,414,325,2.0,961439358,National Lampoon's Senior Trip (1995),Comedy
+57767,599,325,1.5,1498505156,National Lampoon's Senior Trip (1995),Comedy
+58274,132,788,2.0,1157922765,"Nutty Professor, The (1996)",Comedy|Fantasy|Romance|Sci-Fi
+58302,307,788,2.0,1186161496,"Nutty Professor, The (1996)",Comedy|Fantasy|Romance|Sci-Fi
+58312,414,788,3.0,961438937,"Nutty Professor, The (1996)",Comedy|Fantasy|Romance|Sci-Fi
+58315,448,788,3.0,1019128497,"Nutty Professor, The (1996)",Comedy|Fantasy|Romance|Sci-Fi
+58322,480,788,2.5,1179178104,"Nutty Professor, The (1996)",Comedy|Fantasy|Romance|Sci-Fi
+58330,555,788,4.0,978841913,"Nutty Professor, The (1996)",Comedy|Fantasy|Romance|Sci-Fi
+58332,573,788,4.5,1187044868,"Nutty Professor, The (1996)",Comedy|Fantasy|Romance|Sci-Fi
+58336,599,788,2.5,1498515022,"Nutty Professor, The (1996)",Comedy|Fantasy|Romance|Sci-Fi
+62834,292,2915,4.0,1265679954,Risky Business (1983),Comedy
+62836,307,2915,2.5,1186162526,Risky Business (1983),Comedy
+62837,325,2915,3.0,1039398252,Risky Business (1983),Comedy
+62842,414,2915,4.0,961595489,Risky Business (1983),Comedy
+62843,448,2915,4.0,1019127343,Risky Business (1983),Comedy
+62848,514,2915,4.0,1535943745,Risky Business (1983),Comedy
+62849,555,2915,3.0,978821009,Risky Business (1983),Comedy
+62852,599,2915,3.0,1519124802,Risky Business (1983),Comedy
+62854,603,2915,3.0,953927732,Risky Business (1983),Comedy
+67908,212,81591,4.0,1490114909,Black Swan (2010),Drama|Thriller
+67922,414,81591,4.0,1300279548,Black Swan (2010),Drama|Thriller
+67925,448,81591,3.5,1325533270,Black Swan (2010),Drama|Thriller
+67935,599,81591,4.0,1498499440,Black Swan (2010),Drama|Thriller
+70817,279,57368,3.0,1506394267,Cloverfield (2008),Action|Mystery|Sci-Fi|Thriller
+70819,307,57368,3.0,1211305204,Cloverfield (2008),Action|Mystery|Sci-Fi|Thriller
+70824,414,57368,3.0,1249835253,Cloverfield (2008),Action|Mystery|Sci-Fi|Thriller
+70826,448,57368,2.0,1229198927,Cloverfield (2008),Action|Mystery|Sci-Fi|Thriller
+70831,599,57368,3.0,1498522039,Cloverfield (2008),Action|Mystery|Sci-Fi|Thriller
+70841,212,61024,2.5,1490121310,Pineapple Express (2008),Action|Comedy|Crime
+70846,279,61024,3.5,1506394279,Pineapple Express (2008),Action|Comedy|Crime
+70850,307,61024,4.0,1233346487,Pineapple Express (2008),Action|Comedy|Crime
+70856,414,61024,4.0,1222106260,Pineapple Express (2008),Action|Comedy|Crime
+70862,573,61024,5.0,1248839993,Pineapple Express (2008),Action|Comedy|Crime
+72291,414,5292,5.0,1017669841,Slap Shot (1977),Comedy
+74346,414,605,3.0,963236719,One Fine Day (1996),Drama|Romance
+74348,599,605,2.5,1498518815,One Fine Day (1996),Drama|Romance
+74349,603,605,3.0,954482597,One Fine Day (1996),Drama|Romance
+75035,599,1672,2.5,1519172040,"Rainmaker, The (1997)",Drama
+76560,555,2574,2.0,978747097,"Out-of-Towners, The (1999)",Comedy
+83465,198,4823,1.0,1034135389,Serendipity (2001),Comedy|Romance
+83470,414,4823,2.0,1135220835,Serendipity (2001),Comedy|Romance
+83473,480,4823,2.5,1179165519,Serendipity (2001),Comedy|Romance
+83481,603,4823,1.0,1002403269,Serendipity (2001),Comedy|Romance
+83990,414,42738,3.0,1216150216,Underworld: Evolution (2006),Action|Fantasy|Horror
+83991,480,42738,3.0,1179165660,Underworld: Evolution (2006),Action|Fantasy|Horror
+83994,599,42738,2.5,1498515505,Underworld: Evolution (2006),Action|Fantasy|Horror
+85016,448,75805,2.0,1328471152,"Bounty Hunter, The (2010)",Action|Comedy|Romance
+89454,212,166461,4.0,1523217279,Moana (2016),Adventure|Animation|Children|Comedy|Fantasy
+91223,234,3287,2.0,1004409410,"Tigger Movie, The (2000)",Animation|Children
+98265,414,6816,4.0,1065799981,Three O'Clock High (1987),Comedy
